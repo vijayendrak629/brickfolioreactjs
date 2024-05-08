@@ -1,4 +1,4 @@
-git clone <repository-url>
+1. git clone <repository-url>
 
 2. Navigate to the project directory:
 
